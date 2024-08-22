@@ -9,7 +9,7 @@
 - Email : kij980723@naver.com
 - I'm currently ~~
 - Major : C/C++, C#
-- Minor : ~~
+- Minor : python
 
 ## GitHub Stat and Languages
 <p align='center'>
