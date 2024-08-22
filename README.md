@@ -43,8 +43,14 @@
 ## 기술명세
 | 기술분류 | 설명 |
 |:---:|:---:|
-|VSCode|VisualStudio Code 툴 사용법 습득|
-|Python | --- |
+|VSCode| 툴 사용법 습득 |
+|VisualStudiio | 툴 사용법 |
+|C/C++| TCP 소켓프로그래밍, Arduino 프로젝트, stm32 학습중 |
+|C#| Winforms, WPF, MAUI, UWP 프로젝트 |
+|Python| Raspberry Pi 제어, flask 웹서버, 머신러닝/딥러닝 기본 학습 |
+
+
+
 
 ## Project List
 
